@@ -33,7 +33,6 @@
                     
                 });
             });
-
             SongPlayer.currentSong = song;
          };
 
